@@ -13,7 +13,7 @@ A simple and intuitive React app for managing your travel destinations. Create a
 To get started with the app, follow these steps:
 
 ```bash
-git clone https://github.com/your-username/travel-list-app.git
-cd travel-list-app
+git clone git@github.com:Gebriel/travel-list.git
+cd travel-list
 npm install
 npm start
